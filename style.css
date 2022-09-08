@@ -1,0 +1,65 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.navistyling{
+    background-color: #e6ccbe;
+}
+.home{
+    border-radius:10px;
+    border:2px solid rgb(128, 65, 65);
+    min-height:330px;
+    align-items: center;
+}
+.second{
+    min-height:330px;
+    align-items: center;
+}
+.projectstyling{
+    align-items: center;
+}
+.skillstyling{
+    margin-left: 70px;
+    margin-right:70px;
+}
+.footerstyling
+{
+    width:100%;
+    background-color:rgb(162, 131, 131);
+    border-radius:10px;
+    min-height:120px;
+    align-items:center;
+}
+.footerstyling>h1{
+    color:rgb(79, 24, 30);
+    text-align:center;
+}
+.socialmedia{
+    color:bisque;
+    margin-left:10px;
+    align-items: center;
+}
+.button{
+    margin-left:80px;
+    background-color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
